@@ -1,7 +1,6 @@
 9th, Sep, 2022
 ---------------------------
 Homework 1st week
----------------------------
 - Prepare all development environment (can be local or cloud): web server, 
 mongodb (client and server), mysql (client and server), IDE, github (client 
 and server), nodejs, chrome web browser 
