@@ -19,5 +19,6 @@
   "homepage": "https://github.com/lamtrucdang/Web_TheoryClass#readme",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {}
 }
