@@ -29,4 +29,9 @@ mongoose.connect('mongodb+srv://admin:admin@cluster0.hwwwwmv.mongodb.net/test', 
 );
 
 //How to we start listening to the server
-app.listen(3000);
+let port = process.env.PORT;
+if(port === null || port === "")
+{
+    port = 3000;
+}
+app.listen(port);
